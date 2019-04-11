@@ -1,0 +1,27 @@
+{
+  "name": "influx-fixes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedShift1/influx-fixes.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/RedShift1/influx-fixes/issues"
+  },
+  "homepage": "https://github.com/RedShift1/influx-fixes#readme",
+  "dependencies": {
+    "crossfilter2": "^1.4.7",
+    "influx": "^5.0.7",
+    "moment": "^2.24.0",
+    "moment-range": "^4.0.2",
+    "moment-timezone": "^0.5.23",
+    "reductio": "^0.6.3"
+  }
+}
